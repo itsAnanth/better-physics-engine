@@ -1,0 +1,16 @@
+{
+  "name": "topdowngame",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vite": "^4.1.4"
+  }
+}
